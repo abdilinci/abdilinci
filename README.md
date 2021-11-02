@@ -4,7 +4,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdilinci&label=Views&color=blue&style=plastic" alt="abdilinci" /> </p>
 </a>
 
-- 👋 Hi, I’m @abdilinci
 - 🌱 I’m currently learning more about CMS Development & Extended Reality.
 - 😄 Pronouns: He/His
 - ⚡ Almost graduated as a Full-stack webdeveloper.
