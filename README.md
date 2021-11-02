@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <a href="https://github.com/abdilinci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdilinci&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdilinci&theme=light" />
 </a>
 
 
