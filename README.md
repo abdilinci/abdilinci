@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @abdilinci
 
+[![GitHub abdilinci](https://img.shields.io/github/followers/abdilinci?label=follow&style=social)](https://github.com/abdilinci)
+
 
 <!---
 abdilinci/abdilinci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
