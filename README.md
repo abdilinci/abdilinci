@@ -1,3 +1,8 @@
+## Hi, I'm [Abdil Inci!](https://abdilinci.me) 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdilinci&label=Views&color=blue&style=plastic" alt="abdilinci" /> </p>
+
+
 - 👋 Hi, I’m @abdilinci
 
 [![GitHub abdilinci](https://img.shields.io/github/followers/abdilinci?label=follow&style=social)](https://github.com/abdilinci)
