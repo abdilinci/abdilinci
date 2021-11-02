@@ -10,7 +10,7 @@
 
 
 [![GitHub abdilinci](https://img.shields.io/github/followers/abdilinci?label=follow&style=social)](https://github.com/abdilinci)
-[![website](https://img.shields.io/badge/PortfolioWebsite-abdilinci.live-2648ff?style=flat-square&logo=google-chrome)](https://abdilinci.me/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-abdilinci.me-2648ff?style=flat-square&logo=google-chrome)](https://abdilinci.me/)
 
 <!---
 abdilinci/abdilinci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
