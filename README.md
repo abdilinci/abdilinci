@@ -5,6 +5,10 @@
 </a>
 
 - 👋 Hi, I’m @abdilinci
+- 🌱 I’m currently learning more about CMS Development & Extended Reality.
+- 😄 Pronouns: He/His
+- ⚡ Almost graduated as a Full-stack webdeveloper.
+
 
 [![GitHub abdilinci](https://img.shields.io/github/followers/abdilinci?label=follow&style=social)](https://github.com/abdilinci)
 [![website](https://img.shields.io/badge/PortfolioWebsite-abdilinci.live-2648ff?style=flat-square&logo=google-chrome)](https://abdilinci.me/)
