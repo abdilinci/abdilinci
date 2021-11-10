@@ -4,6 +4,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdilinci&label=Views&color=blue&style=plastic" alt="abdilinci" /> </p>
 </a>
 
+- 👀 I’m interested in programming, science & space
 - 🌱 I’m currently learning more about CMS Development & Extended Reality.
 - ⚡ Almost graduated as a Full-stack webdeveloper.
 
