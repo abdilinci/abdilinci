@@ -5,7 +5,6 @@
 </a>
 
 - 🌱 I’m currently learning more about CMS Development & Extended Reality.
-- 😄 Pronouns: He/His
 - ⚡ Almost graduated as a Full-stack webdeveloper.
 
 
