@@ -5,7 +5,6 @@
 </a>
 
 - 👀 I’m interested in programming, science & space
-- 🌱 I’m currently learning more about CMS Development & Extended Reality.
 - ⚡ Almost graduated as a Full-stack webdeveloper.
 
 
