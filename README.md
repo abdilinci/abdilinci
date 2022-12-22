@@ -5,7 +5,7 @@
 </a>
 
 - 👀 I’m interested in programming, science & space
-- ⚡ Almost graduated as a Full-stack webdeveloper.
+- ⚡ Graduated as a Full-stack webdeveloper.
 
 
 [![GitHub abdilinci](https://img.shields.io/github/followers/abdilinci?label=follow&style=social)](https://github.com/abdilinci)
